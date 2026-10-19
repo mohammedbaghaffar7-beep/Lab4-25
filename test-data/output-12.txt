@@ -1,0 +1,5 @@
+SUCCESS
+SUCCESS
+SUCCESS
+usage: TORPEDO,<SINGLE|ALL>
+Unknown firing mode: 'SIGNLE'

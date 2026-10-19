@@ -1,0 +1,4 @@
+GT4500,1,0,0,0
+TORPEDO,ALL #Fire all with secondary Empty
+GT4500,0,0,1,0
+TORPEDO,ALL #Fire all with primary Empty
