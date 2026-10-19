@@ -1,0 +1,2 @@
+SUCCESS #For creating the spacecraft
+usage: TORPEDO,<SINGLE|ALL> #Wrong format for setting the mode.
