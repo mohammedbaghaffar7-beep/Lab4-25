@@ -1,0 +1,4 @@
+#set the mod to ALL
+GT4500,10,0,10,0 #Create a spacecraft
+TORPEDO,ALL 
+#When firing, it will fire all the torpedos in the spacecraft
