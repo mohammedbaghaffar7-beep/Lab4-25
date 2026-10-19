@@ -1,0 +1,5 @@
+GT4500,3,0,1,0 
+TORPEDO,SINGLE #Shoot the primary
+TORPEDO,SINGLE #Shoot the Secondary
+TORPEDO,SINGLE #Shoot the primary
+TORPEDO,SINGLE #Shoot the Secondary, Empty?, shoot the primary for the second consecutive time

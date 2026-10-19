@@ -1,0 +1,2 @@
+GT4500,0,0,0,0
+TORPEDO,SINGLE #Tries to shoot the primary but it's empty, goes to the inner if to shoot secondary, but it's empty as well

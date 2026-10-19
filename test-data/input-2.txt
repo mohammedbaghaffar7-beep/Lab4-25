@@ -1,0 +1,2 @@
+#Try to set the mode without spacecraft created
+TORPEDO,ALL

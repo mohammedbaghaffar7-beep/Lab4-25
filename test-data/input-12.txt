@@ -1,0 +1,5 @@
+GT4500,2,0,0,0
+TORPEDO,SINGLE #Shoots the primary
+TORPEDO,ALL    #Switching to ALL mode and fire
+TORPEDO,    #EROOR
+TORPEDO,SIGNLE

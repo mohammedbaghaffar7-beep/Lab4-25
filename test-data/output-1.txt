@@ -1,0 +1,2 @@
+SUCCESS #Creating the spacecraft
+SUCCESS #Stting the ALL mode

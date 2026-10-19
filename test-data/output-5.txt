@@ -1,0 +1,2 @@
+SUCCESS #For creating the spacecraft
+Unknown firing mode: 'ABC' #Wrong parameters
